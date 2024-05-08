@@ -2,3 +2,5 @@ milk
 bread
 eggs
 cigarettes
+Knives
+Forks
